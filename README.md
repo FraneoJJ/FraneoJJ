@@ -1,5 +1,5 @@
 ##  Frâneo José João
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FraneoJJ&theme=transparent&show_icons=true)
 ## Sobre mim
 👩‍💻 Trabalho atualmente como web developer.
 
@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FraneoJJ&langs_count=8)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FraneoJJ&theme=transparent&show_icons=true)
+
 
 
 
